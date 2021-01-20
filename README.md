@@ -1,4 +1,17 @@
-### Hi there 👋
+# Hi there 👋
+
+My name is Daniel Rhymes, and this is my GitHub.
+
+## ✨ Projects I've Worked On
+- Triumvirate/Better Spell Learning Patch ([Repository]()/[Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/43427))
+
+I knew nothing about making Skyrim Mods, but I got my hands stuck into xEdit and figured out how to patch together two mods I adored.
+
+## 🔭 I’m currently working on ...
+
+- **Tumblr Themes**
+
+Bit of an ongoing project.
 
 <!--
 **undeadcorvid/undeadcorvid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
